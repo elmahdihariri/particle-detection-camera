@@ -24,6 +24,9 @@ electrons      n = 50 000 eV / 3.6 eV          ≈ 13 900 e⁻   (read noise ≈
 digital value  DN = n / 30 000 e⁻ × 1023       ≈ 474 / 1023  (well capacity ≈ 30 000 e⁻, typical value)
 grey level     474 / 1023 × 255                ≈ 118 / 255
 ```
+<img width="731" height="991" alt="image" src="https://github.com/user-attachments/assets/6590d5f7-c86f-4e37-8c49-74158330d44c" /> 
+<img width="679" height="361" alt="image" src="https://github.com/user-attachments/assets/319c1597-8c61-4990-b119-4d49740e9786" />
+
 
 So a single event is well above the read noise and should be visible in the image.
 
